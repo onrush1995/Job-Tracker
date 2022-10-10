@@ -12,7 +12,8 @@ const Landing = () => {
         {/* info */}
         <div className='info'>
           <h1>
-            job <span>tracking</span> app
+            job <span 
+            >tracking</span> app
           </h1>
           <p>
                         Prioritize wisely
